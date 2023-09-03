@@ -1,5 +1,5 @@
 # Victor Melo
-Sou um estudante de Análise e Desenvolvimento de Software com ampla experiência em Tecnologia da Informação. Minha abordagem proativa me permite antecipar desafios e desenvolver soluções eficientes. Tenho conhecimento em diversas áreas, incluindo banco de dados, desenvolvimento de software, análise de dados e automações. Estou comprometido em fornecer soluções inovadoras para atingir os objetivos da empresa. Estou ansioso para continuar contribuindo para futuros projetos de sucesso.
+Sou um estudante de Análise e Desenvolvimento de Software com ampla experiência em Tecnologia da Informação. Minha abordagem proativa me permite antecipar desafios e desenvolver soluções eficientes. Tenho conhecimento em diversas áreas, incluindo banco de dados, desenvolvimento de software, análise de dados e automações.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/melovictor515/)
