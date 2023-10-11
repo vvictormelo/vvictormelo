@@ -16,8 +16,3 @@ Sou um estudante de Análise e Desenvolvimento de Software com ampla experiênci
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvictormelo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvictormelo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
